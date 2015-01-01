@@ -1,0 +1,2276 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>cggreen</LastAuthor>
+  <Created>2006-05-11T03:19:07Z</Created>
+  <Version>11.6568</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="file:///H:\"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="14"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:Color="#0000FF" ss:Underline="Single"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="550" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="90"/>
+   <Row ss:Height="18.75" ss:StyleID="s21">
+    <Cell ss:StyleID="s22" ss:HRef="http://www.federalreserve.gov/datadownload/Download.aspx?rel=H15&amp;series=30846b728b43bf9854ca9f1f28ede894&amp;filetype=spreadsheetml&amp;label=include&amp;layout=seriescolumn&amp;from=12/01/1950&amp;to=02/29/1996"><Data
+      ss:Type="String">Download Page</Data></Cell>
+    <Cell><Data ss:Type="String">H.15 Selected Interest Rates for May 10, 2006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Series Description</Data></Cell>
+    <Cell><Data ss:Type="String">3-month Treasury bill secondary market rate   discount basis</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Unit:</Data></Cell>
+    <Cell><Data ss:Type="String">Percent:_Per_Year</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Multiplier:</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Currency:</Data></Cell>
+    <Cell><Data ss:Type="String">NA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Unique Identifier:</Data></Cell>
+    <Cell><Data ss:Type="String">H15/H15/RIFSGFSM03_N.M</Data></Cell>
+   </Row>
+   <Row ss:Height="13.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Time Period</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">RIFSGFSM03_N.M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1950-12</Data></Cell>
+    <Cell><Data ss:Type="Number">1.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-04</Data></Cell>
+    <Cell><Data ss:Type="Number">1.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-06</Data></Cell>
+    <Cell><Data ss:Type="Number">1.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-07</Data></Cell>
+    <Cell><Data ss:Type="Number">1.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-09</Data></Cell>
+    <Cell><Data ss:Type="Number">1.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-11</Data></Cell>
+    <Cell><Data ss:Type="Number">1.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1951-12</Data></Cell>
+    <Cell><Data ss:Type="Number">1.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-04</Data></Cell>
+    <Cell><Data ss:Type="Number">1.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-06</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-07</Data></Cell>
+    <Cell><Data ss:Type="Number">1.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-09</Data></Cell>
+    <Cell><Data ss:Type="Number">1.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-11</Data></Cell>
+    <Cell><Data ss:Type="Number">1.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1952-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-09</Data></Cell>
+    <Cell><Data ss:Type="Number">1.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-11</Data></Cell>
+    <Cell><Data ss:Type="Number">1.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1953-12</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1.03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-09</Data></Cell>
+    <Cell><Data ss:Type="Number">1.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1954-12</Data></Cell>
+    <Cell><Data ss:Type="Number">1.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-01</Data></Cell>
+    <Cell><Data ss:Type="Number">1.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-04</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-06</Data></Cell>
+    <Cell><Data ss:Type="Number">1.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-07</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1955-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1956-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-09</Data></Cell>
+    <Cell><Data ss:Type="Number">3.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-10</Data></Cell>
+    <Cell><Data ss:Type="Number">3.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-11</Data></Cell>
+    <Cell><Data ss:Type="Number">3.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1957-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-04</Data></Cell>
+    <Cell><Data ss:Type="Number">1.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1958-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1959-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1960-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1961-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-11</Data></Cell>
+    <Cell><Data ss:Type="Number">2.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1962-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-09</Data></Cell>
+    <Cell><Data ss:Type="Number">3.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-10</Data></Cell>
+    <Cell><Data ss:Type="Number">3.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-11</Data></Cell>
+    <Cell><Data ss:Type="Number">3.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1963-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-09</Data></Cell>
+    <Cell><Data ss:Type="Number">3.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-10</Data></Cell>
+    <Cell><Data ss:Type="Number">3.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-11</Data></Cell>
+    <Cell><Data ss:Type="Number">3.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1964-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-09</Data></Cell>
+    <Cell><Data ss:Type="Number">3.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1965-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-04</Data></Cell>
+    <Cell><Data ss:Type="Number">4.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-05</Data></Cell>
+    <Cell><Data ss:Type="Number">4.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-06</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-07</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1966-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-07</Data></Cell>
+    <Cell><Data ss:Type="Number">4.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1967-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1968-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-01</Data></Cell>
+    <Cell><Data ss:Type="Number">6.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-02</Data></Cell>
+    <Cell><Data ss:Type="Number">6.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-03</Data></Cell>
+    <Cell><Data ss:Type="Number">6.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-04</Data></Cell>
+    <Cell><Data ss:Type="Number">6.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1969-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-02</Data></Cell>
+    <Cell><Data ss:Type="Number">7.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-03</Data></Cell>
+    <Cell><Data ss:Type="Number">6.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-04</Data></Cell>
+    <Cell><Data ss:Type="Number">6.51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-07</Data></Cell>
+    <Cell><Data ss:Type="Number">6.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-09</Data></Cell>
+    <Cell><Data ss:Type="Number">6.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1970-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-05</Data></Cell>
+    <Cell><Data ss:Type="Number">4.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-06</Data></Cell>
+    <Cell><Data ss:Type="Number">4.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1971-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1972-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-03</Data></Cell>
+    <Cell><Data ss:Type="Number">6.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-04</Data></Cell>
+    <Cell><Data ss:Type="Number">6.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-06</Data></Cell>
+    <Cell><Data ss:Type="Number">7.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-07</Data></Cell>
+    <Cell><Data ss:Type="Number">8.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-08</Data></Cell>
+    <Cell><Data ss:Type="Number">8.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-09</Data></Cell>
+    <Cell><Data ss:Type="Number">8.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1973-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-02</Data></Cell>
+    <Cell><Data ss:Type="Number">7.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-03</Data></Cell>
+    <Cell><Data ss:Type="Number">7.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-04</Data></Cell>
+    <Cell><Data ss:Type="Number">8.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-05</Data></Cell>
+    <Cell><Data ss:Type="Number">8.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-06</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-08</Data></Cell>
+    <Cell><Data ss:Type="Number">8.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-09</Data></Cell>
+    <Cell><Data ss:Type="Number">8.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1974-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-01</Data></Cell>
+    <Cell><Data ss:Type="Number">6.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-07</Data></Cell>
+    <Cell><Data ss:Type="Number">6.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-09</Data></Cell>
+    <Cell><Data ss:Type="Number">6.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1975-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-04</Data></Cell>
+    <Cell><Data ss:Type="Number">4.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1976-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-04</Data></Cell>
+    <Cell><Data ss:Type="Number">4.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-05</Data></Cell>
+    <Cell><Data ss:Type="Number">4.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-10</Data></Cell>
+    <Cell><Data ss:Type="Number">6.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-11</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1977-12</Data></Cell>
+    <Cell><Data ss:Type="Number">6.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-01</Data></Cell>
+    <Cell><Data ss:Type="Number">6.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-02</Data></Cell>
+    <Cell><Data ss:Type="Number">6.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-03</Data></Cell>
+    <Cell><Data ss:Type="Number">6.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-04</Data></Cell>
+    <Cell><Data ss:Type="Number">6.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-08</Data></Cell>
+    <Cell><Data ss:Type="Number">7.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-11</Data></Cell>
+    <Cell><Data ss:Type="Number">8.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1978-12</Data></Cell>
+    <Cell><Data ss:Type="Number">9.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-01</Data></Cell>
+    <Cell><Data ss:Type="Number">9.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-02</Data></Cell>
+    <Cell><Data ss:Type="Number">9.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-03</Data></Cell>
+    <Cell><Data ss:Type="Number">9.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-04</Data></Cell>
+    <Cell><Data ss:Type="Number">9.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-05</Data></Cell>
+    <Cell><Data ss:Type="Number">9.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-06</Data></Cell>
+    <Cell><Data ss:Type="Number">9.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-07</Data></Cell>
+    <Cell><Data ss:Type="Number">9.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-08</Data></Cell>
+    <Cell><Data ss:Type="Number">9.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-09</Data></Cell>
+    <Cell><Data ss:Type="Number">10.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-10</Data></Cell>
+    <Cell><Data ss:Type="Number">11.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1979-12</Data></Cell>
+    <Cell><Data ss:Type="Number">12.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-01</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-02</Data></Cell>
+    <Cell><Data ss:Type="Number">12.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-03</Data></Cell>
+    <Cell><Data ss:Type="Number">15.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-04</Data></Cell>
+    <Cell><Data ss:Type="Number">13.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-05</Data></Cell>
+    <Cell><Data ss:Type="Number">8.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-06</Data></Cell>
+    <Cell><Data ss:Type="Number">7.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-07</Data></Cell>
+    <Cell><Data ss:Type="Number">8.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-08</Data></Cell>
+    <Cell><Data ss:Type="Number">9.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-09</Data></Cell>
+    <Cell><Data ss:Type="Number">10.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-10</Data></Cell>
+    <Cell><Data ss:Type="Number">11.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-11</Data></Cell>
+    <Cell><Data ss:Type="Number">13.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1980-12</Data></Cell>
+    <Cell><Data ss:Type="Number">15.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-01</Data></Cell>
+    <Cell><Data ss:Type="Number">15.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-02</Data></Cell>
+    <Cell><Data ss:Type="Number">14.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-03</Data></Cell>
+    <Cell><Data ss:Type="Number">13.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-04</Data></Cell>
+    <Cell><Data ss:Type="Number">13.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-05</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-06</Data></Cell>
+    <Cell><Data ss:Type="Number">14.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-07</Data></Cell>
+    <Cell><Data ss:Type="Number">14.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-08</Data></Cell>
+    <Cell><Data ss:Type="Number">15.51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-09</Data></Cell>
+    <Cell><Data ss:Type="Number">14.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-10</Data></Cell>
+    <Cell><Data ss:Type="Number">13.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-11</Data></Cell>
+    <Cell><Data ss:Type="Number">10.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1981-12</Data></Cell>
+    <Cell><Data ss:Type="Number">10.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-01</Data></Cell>
+    <Cell><Data ss:Type="Number">12.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-02</Data></Cell>
+    <Cell><Data ss:Type="Number">13.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-03</Data></Cell>
+    <Cell><Data ss:Type="Number">12.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-04</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-05</Data></Cell>
+    <Cell><Data ss:Type="Number">12.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-06</Data></Cell>
+    <Cell><Data ss:Type="Number">12.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-07</Data></Cell>
+    <Cell><Data ss:Type="Number">11.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-08</Data></Cell>
+    <Cell><Data ss:Type="Number">8.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-11</Data></Cell>
+    <Cell><Data ss:Type="Number">8.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1982-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-02</Data></Cell>
+    <Cell><Data ss:Type="Number">8.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-03</Data></Cell>
+    <Cell><Data ss:Type="Number">8.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-04</Data></Cell>
+    <Cell><Data ss:Type="Number">8.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-05</Data></Cell>
+    <Cell><Data ss:Type="Number">8.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-06</Data></Cell>
+    <Cell><Data ss:Type="Number">8.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-07</Data></Cell>
+    <Cell><Data ss:Type="Number">9.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-08</Data></Cell>
+    <Cell><Data ss:Type="Number">9.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-09</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-10</Data></Cell>
+    <Cell><Data ss:Type="Number">8.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-11</Data></Cell>
+    <Cell><Data ss:Type="Number">8.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1983-12</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-01</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-02</Data></Cell>
+    <Cell><Data ss:Type="Number">9.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-03</Data></Cell>
+    <Cell><Data ss:Type="Number">9.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-04</Data></Cell>
+    <Cell><Data ss:Type="Number">9.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-05</Data></Cell>
+    <Cell><Data ss:Type="Number">9.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-06</Data></Cell>
+    <Cell><Data ss:Type="Number">9.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-07</Data></Cell>
+    <Cell><Data ss:Type="Number">10.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-08</Data></Cell>
+    <Cell><Data ss:Type="Number">10.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-09</Data></Cell>
+    <Cell><Data ss:Type="Number">10.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-10</Data></Cell>
+    <Cell><Data ss:Type="Number">9.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-11</Data></Cell>
+    <Cell><Data ss:Type="Number">8.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1984-12</Data></Cell>
+    <Cell><Data ss:Type="Number">8.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-02</Data></Cell>
+    <Cell><Data ss:Type="Number">8.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-03</Data></Cell>
+    <Cell><Data ss:Type="Number">8.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-04</Data></Cell>
+    <Cell><Data ss:Type="Number">7.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-05</Data></Cell>
+    <Cell><Data ss:Type="Number">7.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-08</Data></Cell>
+    <Cell><Data ss:Type="Number">7.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1985-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-02</Data></Cell>
+    <Cell><Data ss:Type="Number">7.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-03</Data></Cell>
+    <Cell><Data ss:Type="Number">6.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-04</Data></Cell>
+    <Cell><Data ss:Type="Number">6.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1986-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-09</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-10</Data></Cell>
+    <Cell><Data ss:Type="Number">6.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1987-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-05</Data></Cell>
+    <Cell><Data ss:Type="Number">6.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-06</Data></Cell>
+    <Cell><Data ss:Type="Number">6.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-07</Data></Cell>
+    <Cell><Data ss:Type="Number">6.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-08</Data></Cell>
+    <Cell><Data ss:Type="Number">7.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1988-12</Data></Cell>
+    <Cell><Data ss:Type="Number">8.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-01</Data></Cell>
+    <Cell><Data ss:Type="Number">8.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-02</Data></Cell>
+    <Cell><Data ss:Type="Number">8.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-03</Data></Cell>
+    <Cell><Data ss:Type="Number">8.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-04</Data></Cell>
+    <Cell><Data ss:Type="Number">8.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-05</Data></Cell>
+    <Cell><Data ss:Type="Number">8.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-06</Data></Cell>
+    <Cell><Data ss:Type="Number">8.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-08</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1989-12</Data></Cell>
+    <Cell><Data ss:Type="Number">7.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-01</Data></Cell>
+    <Cell><Data ss:Type="Number">7.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-02</Data></Cell>
+    <Cell><Data ss:Type="Number">7.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-03</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-04</Data></Cell>
+    <Cell><Data ss:Type="Number">7.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-05</Data></Cell>
+    <Cell><Data ss:Type="Number">7.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-06</Data></Cell>
+    <Cell><Data ss:Type="Number">7.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-07</Data></Cell>
+    <Cell><Data ss:Type="Number">7.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-08</Data></Cell>
+    <Cell><Data ss:Type="Number">7.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-09</Data></Cell>
+    <Cell><Data ss:Type="Number">7.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-11</Data></Cell>
+    <Cell><Data ss:Type="Number">7.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1990-12</Data></Cell>
+    <Cell><Data ss:Type="Number">6.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-01</Data></Cell>
+    <Cell><Data ss:Type="Number">6.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1991-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-05</Data></Cell>
+    <Cell><Data ss:Type="Number">3.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-10</Data></Cell>
+    <Cell><Data ss:Type="Number">2.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-11</Data></Cell>
+    <Cell><Data ss:Type="Number">3.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1992-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-02</Data></Cell>
+    <Cell><Data ss:Type="Number">2.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-03</Data></Cell>
+    <Cell><Data ss:Type="Number">2.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-07</Data></Cell>
+    <Cell><Data ss:Type="Number">3.04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-08</Data></Cell>
+    <Cell><Data ss:Type="Number">3.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-09</Data></Cell>
+    <Cell><Data ss:Type="Number">2.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-10</Data></Cell>
+    <Cell><Data ss:Type="Number">3.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-11</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1993-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-01</Data></Cell>
+    <Cell><Data ss:Type="Number">2.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-02</Data></Cell>
+    <Cell><Data ss:Type="Number">3.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-03</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-05</Data></Cell>
+    <Cell><Data ss:Type="Number">4.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-06</Data></Cell>
+    <Cell><Data ss:Type="Number">4.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-07</Data></Cell>
+    <Cell><Data ss:Type="Number">4.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1994-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-03</Data></Cell>
+    <Cell><Data ss:Type="Number">5.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-10</Data></Cell>
+    <Cell><Data ss:Type="Number">5.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1995-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1996-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1996-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.83</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,15 @@
+Variables are:
+K (strike price)
+T (exercise date in days from present)
+ImpVol (implied volatility)
+
+35 149 .0320
+40 149 .0275
+42.5 23 .0235
+45 2.4 .0290
+45 23 .0228
+50 3 .0258
+50 23 .0209
+50 149 .0232
+55 23 .0223
+55 86 .0204 
