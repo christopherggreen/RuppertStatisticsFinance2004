@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Ruppertstatisticsfinance2004 by christopherggreen</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>Ruppertstatisticsfinance2004</h1>
+          <h2>S-Plus Code for &quot;Statistics and Finance: An Introduction&quot; by David Ruppert (Springer-Verlag, 2004).</h2>
+        </header>
+
+        <section id="downloads" class="clearfix">
+          <a href="https://github.com/christopherggreen/RuppertStatisticsFinance2004/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
+          <a href="https://github.com/christopherggreen/RuppertStatisticsFinance2004/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+          <a href="https://github.com/christopherggreen/RuppertStatisticsFinance2004" id="view-on-github" class="button"><span>View on GitHub</span></a>
+        </section>
+
+        <hr>
+
+        <section id="main_content">
+          <h1>
+<a id="s-plus-code-for-statistics-and-finance-an-introduction-david-ruppert" class="anchor" href="#s-plus-code-for-statistics-and-finance-an-introduction-david-ruppert" aria-hidden="true"><span class="octicon octicon-link"></span></a>S-Plus code for "Statistics and Finance: an Introduction", David Ruppert</h1>
+
+<h1>
+<a id="written-by-christopher-g-green" class="anchor" href="#written-by-christopher-g-green" aria-hidden="true"><span class="octicon octicon-link"></span></a>Written by Christopher G. Green</h1>
+
+<h1>
+<a id="department-of-statistics-university-of-washington" class="anchor" href="#department-of-statistics-university-of-washington" aria-hidden="true"><span class="octicon octicon-link"></span></a>Department of Statistics, University of Washington</h1>
+
+<h1>
+<a id="cggreen-at-stat-dot-washington-dot-edu" class="anchor" href="#cggreen-at-stat-dot-washington-dot-edu" aria-hidden="true"><span class="octicon octicon-link"></span></a>cggreen AT stat DOT washington DOT edu</h1>
+
+<h1>
+<a id="version-001" class="anchor" href="#version-001" aria-hidden="true"><span class="octicon octicon-link"></span></a>version 0.0.1</h1>
+
+<p>OVERVIEW</p>
+
+<p>This archive contains S-Plus translations of all the SAS and MATLAB
+code that is used in David Ruppert's text, "Statistics and Finance: an
+Introduction" (Springer-Verlag, 2004).  It is provided as a convenience
+to students using the text.</p>
+
+<p>ORGANIZATION</p>
+
+<p>There is a directory named "chapterXX" for each chapter. Each such
+directory contains all the code needed to replicate the figures and
+examples in that chapter. Each code file (with extension ".q") is
+named according to whether it generates a figure (e.g., "figure4-1.q"
+generates Figure 4.1) or replicates an example (e.g., "page410.q"
+contains a translation of the code on or around page 410). In addition,
+each directory also contains a ".First.q" file. This file loads any
+auxiliary functions needed for that chapter, and should be run before
+running any of the code for that chapter.</p>
+
+<p>Chapters 1 and 14 do not contain code or figures, hence they do not
+have directories.</p>
+
+<p>The directory "common" contains auxiliary functions used throughout the
+book. It also contains a subdirectory, "data" that contains all the data
+sets for the book. Most of these data sets come from Ruppert's web site,
+but I managed to track down a few data sets that Ruppert did not provide
+(e.g., the Pindyck and Rubinfeld data set used in Chapter 12).</p>
+
+<p>STYLE</p>
+
+<p>I have written this code with the student in mind. I have tried to use
+basic S-Plus commands wherever possible; for example, I have avoided
+using the more efficient "apply" commands in favor of more straightforward
+"for" loops. I have also tried to explain the trickier parts of the code
+in my comments. Hopefully everything is fairly clear.</p>
+
+<p>S-Plus, MATLAB, and SAS are all very different computational
+packages. I've taken great pains to make S-Plus figures look like MATLAB
+figures. In a few places I've provided code that replicates SAS's output
+exactly for illustrative purposes, while in other places I simply showed
+how to calculate the statistics needed and nothing more.</p>
+
+<p>STANDARD WARRANTIES, DISCLAIMERS, LEGALESE, ETC.</p>
+
+<p>All of the code was developed on a Pentium IV machine running Windows
+XP SP2 with S-Plus 6.2.  I have not verified that the code works as
+described under any other architecture, operating system, or version of
+S-Plus (or R). I provide this code without any warranties or guarantees.
+By using this code you agree not to hold me responsible for any damage
+to your computer this code may cause.</p>
+
+<p>LICENSE</p>
+
+<p>TBD.</p>
+
+<p>COMMENTS, SUGGESTIONS, QUESTIONS</p>
+
+<p>Send any comments, suggestions, or questions you may have to me (cggreen
+AT stat DOT washington DOT edu).</p>
+        </section>
+
+        <footer>
+          Ruppertstatisticsfinance2004 is maintained by <a href="https://github.com/christopherggreen">christopherggreen</a><br>
+          This page was generated by <a href="http://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+        </footer>
+
+        
+      </div>
+    </div>
+  </body>
+</html>
